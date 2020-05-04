@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+body{
+  background-image: url('black-background-with-red-and-metallic-stripes-vector-11942382.jpg');
+  background-attachment: fixed;
+  background-size: 100% 100%; 
+background-repeat: no-repeat;
+}
+h5{
+  color: #df0100;
+}
+.container{
+margin-top : 60px ;
+box-shadow: 2px 1px 2px 1px #df0100 ;
+display: flex;
+justify-content: space-evenly;
+
+}
+h2{
+  color: #f8f8f8 ;
+  text-shadow: 1px 1px #df0100;
+  top:25px;
+}
+
+.card{
+  box-shadow: 2px 1px 2px 1px #df0100 ;
+}
+
+
+
+.input{
+  border-radius:5px ;
+  background-color: rgba(0, 0, 0, 0.329);
+  color: bisque;
+  padding-left: 8px;
+  font-size: 1em;
+ 
+}
+
+.image{
+  margin-top:50px;
+ background-image: url('https://dvh1deh6tagwk.cloudfront.net/niche-builder/5e250ca6de0fa.png');
+ 
+width: 500px;
+height: 300px;
+
+background-repeat: no-repeat;
+position: relative;
+}
+.container-date{
+  display: flex;
+  justify-content: space-evenly;
+
+}
+.number{
+  top:90px;
+  
+  position: absolute;
+  left: 30px;
+  font-size:20px;
+  color: bisque;
+}
+.nom{
+  top:155px; 
+  position: absolute; 
+  left: 25px;
+  color: bisque;
+  text-transform: uppercase;
+}
+.date{
+
+  top:145px; 
+  left: 120px;
+  position: absolute; 
+  color: bisque; 
+  font-size:10px;
+}
+
+
+
+
+
+
+
+
